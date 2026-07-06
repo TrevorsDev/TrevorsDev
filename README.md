@@ -41,4 +41,6 @@ Before software — I bartended, and biked 2,700 miles across the United States.
 
 ### `> github.stats`
 
-![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrevorsDev&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=TrevorsDev&theme=dark&hide_border=true)
+<!-- ![Trevor's GitHub stats](https://github-readme-stats-five-iota-86.vercel.app/api?username=TrevorsDev&show_icons=true&theme=dark&hide_border=true) -->
+
