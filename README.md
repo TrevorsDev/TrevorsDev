@@ -1,7 +1,7 @@
 # Hey, I'm Trevor.
 
-Full-stack developer building across React, Node.js, Python, and AI tooling.
-Before software — I bartended, and biked 2,700 miles across the United States.
+Full-stack developer building across JavaScript, React, Node.js, Python, and AI tooling. I'm always thinking about how I can solve meaningful problems with code. I love to push myself beyond what I feel I'm capable of by learning new technologies, testing and implementing new workflows and creating apps with structures that are scalable. I've lived many lives before my commitment to software engineering including bicycling 2,700 miles across New Zealand, and training at various Buddhist monasteries throughout the USA.
+
 
 ---
 
